@@ -12,7 +12,7 @@ We are creating a caster.
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
-
+* [CircuitPython](#CircuitPython)
 ## Base
 
 ### Description
@@ -103,3 +103,13 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ### Reflection
 
 ---
+## CircuitPython
+
+### Description
+Cricuit Python is a great learning experience for you. During these assignments I learned how to Code a LCD screen and make my ultrasonic sensor read the distance of a object.
+### Evidence
+
+### Image
+
+### Reflection
+Cricuit Python is a great learning experience for you

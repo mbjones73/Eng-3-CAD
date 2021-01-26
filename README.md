@@ -63,6 +63,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Image
 <img src="blob:chrome-untrusted://media-app/c59253fe-f114-436d-9957-3b9ab5322572" alt="The Base" width="380">
+credit goes to [Alden Dent](https://github.com/adent11/Basic-CAD)
 ### Reflection
 
 ---
@@ -75,7 +76,8 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ### Evidence
 
 ### Image
-
+<img src="https://github.com/adent11/Basic-CAD/blob/master/Images/Tire.png" alt="The Base" width="380">
+credit goes to [Alden Dent](https://github.com/adent11/Basic-CAD)
 ### Reflection
 
 ---
@@ -89,6 +91,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Image
 <img src="https://github.com/mbjones73/Eng-3-CAD/blob/main/images/wheel.png?raw=true" alt="The Base" width="389">
+credit goes to [Alden Dent](https://github.com/adent11/Basic-CAD)
 ### Reflection
 
 ---
@@ -101,6 +104,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ### Evidence
 
 ### Image
+<img src="https://github.com/adent11/Basic-CAD/blob/master/Images/Axle%26Collar.png" alt="The Base" width="389">
 
 ### Reflection
 

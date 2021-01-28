@@ -82,7 +82,7 @@ credit goes to [Alden Dent](https://github.com/adent11/Basic-CAD)
 
 ### Reflection
 fillets make the sides round
-Revole was a bi ghelp to make a circle
+Revole was a big help to make a circle
 
 ---
 

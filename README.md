@@ -43,7 +43,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ## Mount
 
 ### Description
-
+In this assignment I created the mount part of the caster. It is a 120 mm square extruded 8 mm with a 25 mm hole in the center and four 10 mm holes whose centers are 20 mm away from the edge.
 ### Evidence
 
 ### Image
@@ -58,7 +58,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ## Fork
 
 ### Description
-
+In this assignment I designed the fork that attaches the axle to the base of the caster. It has a circular base with two prongs, with holes for the axle, and a cylinder on the top that attaches to the base
 ### Evidence
 
 ### Image
@@ -72,13 +72,15 @@ credit goes to [Alden Dent](https://github.com/adent11/Basic-CAD)
 ## Tire
 
 ### Description
-
+In this assignment I designed the tire of the caster. It is a trapezoid revolved around the origin to make the wheel, with fillets on both sides to round the edges
 ### Evidence
 
 ### Image
 <img src="https://github.com/adent11/Basic-CAD/blob/master/Images/Tire.png" alt="The Base" width="380">
 credit goes to [Alden Dent](https://github.com/adent11/Basic-CAD)
 ### Reflection
+fillets make the sides round
+Revole was a bi ghelp to make a circle
 
 ---
 
@@ -86,6 +88,7 @@ credit goes to [Alden Dent](https://github.com/adent11/Basic-CAD)
 ## Wheel
 
 ### Description
+In this assignment I designed the wheel of the caster. It is revolved I shape with holes cut to make spokes, then some fillets.
 
 ### Evidence
 
@@ -93,6 +96,7 @@ credit goes to [Alden Dent](https://github.com/adent11/Basic-CAD)
 <img src="https://github.com/mbjones73/Eng-3-CAD/blob/main/images/wheel.png?raw=true" alt="The Base" width="389">
 credit goes to [Alden Dent](https://github.com/adent11/Basic-CAD)
 ### Reflection
+A wiseman (A.K.A Mr.Helmsetter) always told me" work smarter not harder" that played a big role today with the cuts. Instead of doing every cut 1 by 1 use revole around the center.
 
 ---
 
@@ -100,7 +104,7 @@ credit goes to [Alden Dent](https://github.com/adent11/Basic-CAD)
 ## AxleCollarBearings
 
 ### Description
-
+In this assignment I made the axle, which is a cylinder with flat cuts on the ends for set screws, a collar that attaches to the end of the axle, and two different sized bearings.
 ### Evidence
 
 ### Image

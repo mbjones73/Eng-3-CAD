@@ -64,6 +64,7 @@ In this assignment I designed the fork that attaches the axle to the base of the
 ### Image
 <img src="https://github.com/adent11/Basic-CAD/blob/master/Images/Fork.png" alt="The Base" width="380">
 credit goes to [Alden Dent](https://github.com/adent11/Basic-CAD)
+
 ### Reflection
 
 ---
@@ -78,6 +79,7 @@ In this assignment I designed the tire of the caster. It is a trapezoid revolved
 ### Image
 <img src="https://github.com/adent11/Basic-CAD/blob/master/Images/Tire.png" alt="The Base" width="380">
 credit goes to [Alden Dent](https://github.com/adent11/Basic-CAD)
+
 ### Reflection
 fillets make the sides round
 Revole was a bi ghelp to make a circle
@@ -95,6 +97,7 @@ In this assignment I designed the wheel of the caster. It is revolved I shape wi
 ### Image
 <img src="https://github.com/mbjones73/Eng-3-CAD/blob/main/images/wheel.png?raw=true" alt="The Base" width="389">
 credit goes to [Alden Dent](https://github.com/adent11/Basic-CAD)
+
 ### Reflection
 A wiseman (A.K.A Mr.Helmsetter) always told me" work smarter not harder" that played a big role today with the cuts. Instead of doing every cut 1 by 1 use revole around the center.
 
@@ -109,7 +112,7 @@ In this assignment I made the axle, which is a cylinder with flat cuts on the en
 
 ### Image
 <img src="https://github.com/adent11/Basic-CAD/blob/master/Images/Axle%26Collar.png" alt="The Base" width="389">
-
+credit goes to [Alden Dent](https://github.com/adent11/Basic-CAD)
 ### Reflection
 
 ---

@@ -24,7 +24,7 @@ The first assignment is to create the caster base.  The base's dimensions are 20
 
 ### Image
 
-<img src="images/Base.jpg" alt="The Base" width="200">
+<img src="https://github.com/adent11/Basic-CAD/blob/master/Images/Base.PNG" alt="The Base" width="200">
 
 ### Reflection
 
@@ -62,7 +62,7 @@ In this assignment I designed the fork that attaches the axle to the base of the
 ### Evidence
 
 ### Image
-<img src="blob:chrome-untrusted://media-app/c59253fe-f114-436d-9957-3b9ab5322572" alt="The Base" width="380">
+<img src="https://github.com/adent11/Basic-CAD/blob/master/Images/Fork.png" alt="The Base" width="380">
 credit goes to [Alden Dent](https://github.com/adent11/Basic-CAD)
 ### Reflection
 

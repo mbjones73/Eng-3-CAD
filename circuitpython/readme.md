@@ -22,16 +22,16 @@ while True:
     print("Green Level: ", -x+255)
     print("Blue Level:", x)
  
- ### Distance sensor
+ # Distance sensor
  
  ### Description
 I used a distance sensor to change the color of the neopixel LED
  ### Evidence
 
  ### Image
-<img src="https://github.com/adent11/CircuitPython/blob/master/Media/DistanceSensorLEDMapping.png" alt="The Base" width="380">
- ### Code
- ##### Distance sensor
+<img src="https://github.com/adent11/CircuitPython/blob/master/Media/DistanceSensorLEDMapping.png" alt="The Base" width="380"> credit to [Alden Dent](https://github.com/adent11/CircuitPython)
+ #### Code
+
  import time
  import board
  import neopixel

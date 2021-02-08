@@ -1,12 +1,35 @@
 # My circuitpython assignments
-## CircuitPython
+## Hello CircuitPython
+### Description
+I got the Metro M0 Express board working, and coded a simple fade with the built in LED
+### Code
+import board
+import neopixel
+import time
+x = 0
+change = 1
 
+dot = neopixel.NeoPixel(board.NEOPIXEL, 1)
+
+while True:
+    if x > 254:
+        up = -1
+    if x < 1:
+        up = 1
+    x += up
+    dot.fill((0, -x+255, x))
+    time.sleep(.1)
+    print("Green Level: ", -x+255)
+    print("Blue Level:", x)
+ 
+ ### Distance sensor
+ 
  ### Description
- Cricuit Python is a great learning experience for you. During these assignments I learned how to Code a LCD screen and make my ultrasonic sensor read the distance of a object.
+I used a distance sensor to change the color of the neopixel LED
  ### Evidence
 
  ### Image
-
+<img src="https://github.com/adent11/CircuitPython/blob/master/Media/DistanceSensorLEDMapping.png" alt="The Base" width="380">
  ### Code
  ##### Distance sensor
  import time

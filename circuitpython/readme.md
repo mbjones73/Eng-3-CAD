@@ -61,7 +61,15 @@ I used a distance sensor to change the color of the neopixel LED
      except RuntimeError:
          print("Retrying!")
      time.sleep(.1)
- ##### Servo
+ 
+ ### Reflection
+ 
+ # Servo
+ 
+ ### Description
+ 
+ 
+ ### Code
  import board
  import servo
  import time
@@ -100,4 +108,4 @@ I used a distance sensor to change the color of the neopixel LED
          myServo.angle = constrain((myServo.angle -4), min_val , max_val) #Moves it to 0
          time.sleep(0.1)     
  ### Reflection
- Cricuit Python is a great learning experience for you
+
